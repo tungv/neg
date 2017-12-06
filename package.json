@@ -1,0 +1,22 @@
+{
+  "name": "neg",
+  "version": "1.0.0",
+  "description": "Functional Negation",
+  "main": "index.js",
+  "files": ["index.js"],
+  "author": "Tung Vu <me@tungv.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tungv/neg"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "dependencies": {
+    "brn": "^1.0.2"
+  }
+}
